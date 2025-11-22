@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hello, I'm Ren. I specialize in cybersecurity and I'm an ethical hacker. My job is to find vulnerabilities, write a report about them, and submit it to the company. 
 
+# Languages:
+🇬🇧 English (Professional) · 🇯🇵 日本語 (Native) · 🇮🇶 العربية (Medium) · 🇮🇷فارسی (junior)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1417141835960160428) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrwhite4939@gmail.com) 
