@@ -16,4 +16,6 @@ Hello, I'm Ren. I specialize in cybersecurity and I'm an ethical hacker. My job 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mrwhite4939&icon=0&color=0)](https://visitcount.itsvg.in)
-
+---
+# 📄Certificates: 
+![OSCP](https://github.com/mrwhite4939/mrwhite4939/blob/main/OSCP.png)
