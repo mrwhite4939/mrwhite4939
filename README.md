@@ -1,4 +1,5 @@
-![hello](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)](mailto:mrwhite4939@gmail.com) 
+![hello](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FFFFFF00&width=435&lines=Welcome+to+My+Profile)](https://git.io/typing-svg)
 --
 # 💫 About Me:
