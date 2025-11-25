@@ -258,13 +258,6 @@ await hacker.hunt_vulnerabilities();
   ├─ 🤖 Security Automation Tools
   ├─ 📝 CVE Discovery & Responsible Disclosure
   └─ 🎓 Security Training Content
-
-🏆 Goals for 2025:
-  ├─ 🎖️ OSEP & OSED Certifications
-  ├─ 💰 Top 100 in Bug Bounty Programs
-  ├─ 📚 Publish Security Research Papers
-  ├─ 🌟 Contribute to Open Source Security Tools
-  └─ 🎤 Speaker at Security Conferences
 ```
 
 </div>
@@ -350,6 +343,6 @@ await hacker.hunt_vulnerabilities();
 
 <br/>
 
-<sub>💀 Powered by caffeine and curiosity | 🎯 Committed to ethical hacking | 🛡️ Defending the digital world</sub>
+<sub> ©All rights reserved by Ren</sub>
 
 </div>
