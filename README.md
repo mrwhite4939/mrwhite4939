@@ -1,5 +1,5 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FFFFFF00&width=435&lines=Hello%2C+I'm+Ren.+I+specialize+in+cybersecurity+and+I'm+an+ethical+hacker.+My+job+is+to+find+vulnerabilities%2C+write+a+report+about+them%2C+and+submit+it+to+the+company.)](https://git.io/typing-svg)
+Hello, I'm Ren. I specialize in cybersecurity and I'm an ethical hacker. My job is to find vulnerabilities, write a report about them, and submit it to the company.
 
 # Languages:
 🇬🇧 English (Professional) · 🇯🇵 日本語 (Native) · 🇮🇶 العربية (Medium) · 🇮🇷فارسی (junior)
