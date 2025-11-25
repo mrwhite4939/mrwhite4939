@@ -95,7 +95,7 @@ print(hacker.motto())
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/1417141835960160428)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:mrwhite4939@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/mrwhite4939)
 
 </div>
 
@@ -167,10 +167,10 @@ print(hacker.motto())
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrwhite4939&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrwhite4939&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=FF6B6B&currStreakLabel=00FF41" alt="GitHub Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=mrwhite4939&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=FF6B6B&currStreakLabel=00FF41" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrwhite4939&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrwhite4939&custom_title=Contribution%20Graph&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph"/>
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=mrwhite4939&limit=8&theme=chartreuse_dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrwhite4939&custom_title=Contribution%20Activity&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=00ff41&title_color=00ff41&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
