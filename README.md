@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Penetration+Testing+✨;Security+Research+🔍;Exploit+Development+💥;Red+Team+Operations+🎯" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=80&lines=Penetration+Testing;Security+Research;Exploit+Development;Red+Team+Operations" alt="Typing SVG" />
 
 </div>
 
@@ -201,7 +201,7 @@ await hacker.hunt_vulnerabilities();
 <!-- GitHub Streak -->
 <div align="center">
   <a href="https://github.com/MrWhite4939">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrWhite4939&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=00ff41&currStreakLabel=7c3aed&sideLabels=7c3aed&dates=c9d1d9&stroke=7c3aed&currStreakNum=00ff41&sideNums=00ff41&border_radius=10" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=MrWhite4939&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=00FF41&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=C9D1D9&stroke=7C3AED&currStreakNum=00FF41&sideNums=00FF41&border_radius=10" alt="GitHub Streak" />
   </a>
 </div>
 
