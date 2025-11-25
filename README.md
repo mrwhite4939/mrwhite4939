@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FFFFFF00&width=435&lines=Welcome+to+My+Profile)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FFFFFF00&width=435&lines=Welcome+to+My+Profile)](https://git.io/typing-svg)
+![hello](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 --
 # 💫 About Me:
 Hello, I'm Ren. I specialize in cybersecurity and I'm an ethical hacker. My job is to find vulnerabilities, write a report about them, and submit it to the company.
