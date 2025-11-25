@@ -343,6 +343,6 @@ await hacker.hunt_vulnerabilities();
 
 <br/>
 
-<sub> ©All rights reserved by Ren</sub>
+<sub> All rights reserved © Ren</sub>
 
 </div>
