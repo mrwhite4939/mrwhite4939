@@ -186,18 +186,6 @@ await hacker.hunt_vulnerabilities();
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<!-- GitHub Stats Cards -->
-<a href="https://github.com/MrWhite4939">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrWhite4939&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=00ff41&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/MrWhite4939">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrWhite4939&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&border_radius=10"/>
-</a>
-
-</div>
-
 <!-- GitHub Streak -->
 <div align="center">
   <a href="https://github.com/MrWhite4939">
