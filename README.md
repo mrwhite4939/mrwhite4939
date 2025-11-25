@@ -198,12 +198,7 @@ await hacker.hunt_vulnerabilities();
 
 </div>
 
-<!-- GitHub Streak -->
-<div align="center">
-  <a href="https://github.com/MrWhite4939">
-    <img src="https://streak-stats.demolab.com?user=MrWhite4939&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=00ff41&currStreakLabel=7c3aed&sideLabels=7c3aed&dates=c9d1d9&stroke=7c3aed&currStreakNum=00ff41&sideNums=00ff41&border_radius=10" alt="GitHub Streak" />
-  </a>
-</div>
+
 
 <!-- Activity Graph -->
 <div align="center">
@@ -270,13 +265,6 @@ await hacker.hunt_vulnerabilities();
   ├─ 🤖 Security Automation Tools
   ├─ 📝 CVE Discovery & Responsible Disclosure
   └─ 🎓 Security Training Content
-
-🏆 Goals for 2025:
-  ├─ 🎖️ OSEP & OSED Certifications
-  ├─ 💰 Top 100 in Bug Bounty Programs
-  ├─ 📚 Publish Security Research Papers
-  ├─ 🌟 Contribute to Open Source Security Tools
-  └─ 🎤 Speaker at Security Conferences
 ```
 
 </div>
