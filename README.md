@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Penetration+Testing+%E2%9C%A8;Security+Research+%F0%9F%94%8D;Exploit+Development+%F0%9F%92%A5;Red+Team+Operations+%F0%9F%8E%AF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Penetration+Testing+✨;Security+Research+🔍;Exploit+Development+💥;Red+Team+Operations+🎯" alt="Typing SVG" />
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" width="35"> About MrWhite
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About MrWhite
 
 ```typescript
 class EthicalHacker {
@@ -97,7 +97,7 @@ await hacker.hunt_vulnerabilities();
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5e3_fe0f/512.gif" width="35"> Languages I Speak
+## 🗣️ Languages I Speak
 
 <div align="center">
 
@@ -112,7 +112,7 @@ await hacker.hunt_vulnerabilities();
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" width="35"> Connect With Me
+## 💬 Connect With Me
 
 <div align="center">
 
@@ -123,10 +123,10 @@ await hacker.hunt_vulnerabilities();
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="35"> Arsenal & Tools
+## 🛠️ Arsenal & Tools
 
 <details open>
-<summary><b><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="20"/> Programming & Scripting Languages</b></summary>
+<summary><b>💻 Programming & Scripting Languages</b></summary>
 <br/>
 
 <div align="center">
@@ -145,7 +145,7 @@ await hacker.hunt_vulnerabilities();
 </details>
 
 <details open>
-<summary><b><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" width="20"/> Web Technologies</b></summary>
+<summary><b>🌐 Web Technologies</b></summary>
 <br/>
 
 <div align="center">
@@ -158,7 +158,7 @@ await hacker.hunt_vulnerabilities();
 </details>
 
 <details open>
-<summary><b><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5c4_fe0f/512.gif" width="20"/> Databases</b></summary>
+<summary><b>🗄️ Databases</b></summary>
 <br/>
 
 <div align="center">
@@ -171,7 +171,7 @@ await hacker.hunt_vulnerabilities();
 </details>
 
 <details open>
-<summary><b><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601_fe0f/512.gif" width="20"/> Cloud & Infrastructure</b></summary>
+<summary><b>☁️ Cloud & Infrastructure</b></summary>
 <br/>
 
 <div align="center">
@@ -184,16 +184,16 @@ await hacker.hunt_vulnerabilities();
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="35"> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <!-- GitHub Stats Cards -->
 <a href="https://github.com/MrWhite4939">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MrWhite4939&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=00ff41&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrWhite4939&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=00ff41&text_color=c9d1d9&border_radius=10"/>
 </a>
 <a href="https://github.com/MrWhite4939">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrWhite4939&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrWhite4939&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&border_radius=10"/>
 </a>
 
 </div>
@@ -201,14 +201,14 @@ await hacker.hunt_vulnerabilities();
 <!-- GitHub Streak -->
 <div align="center">
   <a href="https://github.com/MrWhite4939">
-    <img src="https://streak-stats.demolab.com?user=MrWhite4939&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=00ff41&currStreakLabel=7c3aed&sideLabels=7c3aed&dates=c9d1d9&stroke=7c3aed&currStreakNum=00ff41&sideNums=00ff41&border_radius=10" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrWhite4939&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=00ff41&currStreakLabel=7c3aed&sideLabels=7c3aed&dates=c9d1d9&stroke=7c3aed&currStreakNum=00ff41&sideNums=00ff41&border_radius=10" alt="GitHub Streak" />
   </a>
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
   <a href="https://github.com/MrWhite4939">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrWhite4939&bg_color=0d1117&color=7c3aed&line=00ff41&point=00ff41&area=true&hide_border=true&title_color=7c3aed&area_color=7c3aed&border_radius=10" alt="Contribution Graph" width="95%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrWhite4939&bg_color=0d1117&color=7c3aed&line=00ff41&point=00ff41&area=true&hide_border=true&custom_title=Contribution%20Graph&title_color=7c3aed&area_color=7c3aed&radius=10" alt="Contribution Graph" width="95%"/>
   </a>
 </div>
 
@@ -219,13 +219,13 @@ await hacker.hunt_vulnerabilities();
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="35"> Certifications
+## 🏆 Certifications
 
 <div align="center">
 
 ### 🎖️ Offensive Security Certified Professional (OSCP)
 
-<img src="https://github.com/mrwhite4939/mrwhite4939/blob/main/OSCP.png" width="600" alt="OSCP Certificate"/>
+<img src="https://raw.githubusercontent.com/MrWhite4939/MrWhite4939/main/OSCP.png" width="600" alt="OSCP Certificate"/>
 
 <br/><br/>
 
@@ -253,7 +253,7 @@ await hacker.hunt_vulnerabilities();
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="35"> Current Mission
+## 🎯 Current Mission
 
 <div align="center">
 
@@ -283,7 +283,7 @@ await hacker.hunt_vulnerabilities();
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="35"> Security Wisdom
+## 💡 Security Wisdom
 
 <div align="center">
 
@@ -307,7 +307,7 @@ await hacker.hunt_vulnerabilities();
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="35"> Recent Activity
+## 🔥 Recent Activity
 
 <div align="center">
 
@@ -349,7 +349,7 @@ await hacker.hunt_vulnerabilities();
 <div align="center">
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Stay%20Curious%20%E2%80%A2%20Stay%20Ethical%20%E2%80%A2%20Stay%20Sharp&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Stay%20Curious%20•%20Stay%20Ethical%20•%20Stay%20Sharp&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70"/>
 
 <br/>
 
