@@ -41,6 +41,8 @@ hacker = OffensiveSecurityExpert()
 print(hacker.motto())
 ```
 
+<br clear="right"/>
+
 ### 🔥 Core Competencies
 
 <div align="center">
@@ -166,11 +168,28 @@ print(hacker.motto())
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrwhite4939&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=mrwhite4939&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=FF6B6B&currStreakLabel=00FF41" alt="GitHub Streak"/>
+<a href="https://github.com/mrwhite4939">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrwhite4939&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41"/>
+</a>
+<a href="https://github.com/mrwhite4939">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mrwhite4939&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
+</a>
 
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=mrwhite4939&limit=8&theme=chartreuse_dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrwhite4939&custom_title=Contribution%20Activity&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=00ff41&title_color=00ff41&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  
+<a href="https://github.com/mrwhite4939">
+  <img src="https://streak-stats.demolab.com?user=mrwhite4939&theme=algolia&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=c9d1d9&stroke=00ff41&currStreakNum=00ff41&sideNums=00ff41" alt="GitHub Streak" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/mrwhite4939">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrwhite4939&bg_color=0d1117&color=00ff41&line=00ff41&point=c9d1d9&area=true&hide_border=true&title_color=00ff41&area_color=00ff41" alt="Contribution Graph" width="95%"/>
+</a>
 
 </div>
 
@@ -188,17 +207,20 @@ print(hacker.motto())
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"/><br/>
 <b>Try Harder</b><br/>
-<sub>Official Certification</sub>
+<sub>Official Motto</sub>
 </td>
-<td align="center">
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"/><br/>
 <b>Offensive Security</b><br/>
 <sub>Industry Standard</sub>
 </td>
-<td align="center">
-<b>Practical Exam</b><br/>
-<sub>24 Hours Challenge</sub>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50"/><br/>
+<b>24 Hour Exam</b><br/>
+<sub>Practical Challenge</sub>
 </td>
 </tr>
 </table>
@@ -207,26 +229,30 @@ print(hacker.motto())
 
 ---
 
-## 🎯 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="35"/> Current Focus
+## 🎯 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="35"/> Current Focus & Goals
 
 <div align="center">
 
 ```yaml
-learning:
-  - Advanced Exploit Development
-  - Kernel-Level Security Research
-  - Cloud Penetration Testing (AWS/Azure/GCP)
-  - Mobile Application Security (iOS/Android)
-  
-projects:
-  - Custom Exploit Frameworks
-  - Security Automation Tools
-  - Vulnerability Research
-  
-goals:
-  - Contribute to Security Communities
-  - Discover Critical CVEs
-  - Expand Bug Bounty Portfolio
+🎓 Learning & Development:
+  ├─ Advanced Exploit Development & Reverse Engineering
+  ├─ Cloud Penetration Testing (AWS | Azure | GCP)
+  ├─ Mobile Application Security (iOS | Android)
+  ├─ Kernel-Level Security Research
+  └─ Advanced Web Application Attacks
+
+🔨 Active Projects:
+  ├─ Custom Security Automation Tools
+  ├─ Vulnerability Research & POC Development
+  ├─ Red Team Infrastructure Setup
+  └─ Security Training Content Creation
+
+🏆 Professional Goals:
+  ├─ Discover & Report Critical CVEs
+  ├─ Expand Bug Bounty Portfolio
+  ├─ Contribute to Open Source Security Projects
+  ├─ Obtain Advanced Security Certifications (OSEP | OSED)
+  └─ Build Security Community Presence
 ```
 
 </div>
@@ -237,36 +263,75 @@ goals:
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+best+way+to+predict+the+future+is+to+invent+it&author=Alan+Kay&border=true"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Security+is+not+a+product,+but+a+process&author=Bruce+Schneier&border=true&animation=grow_out_in"/>
 
 </div>
 
 ---
 
-## 🔥 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35"/> Activity Overview
+## 🔥 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35"/> Recent Activity
 
 <div align="center">
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### 📌 What I'm Working On
 
-### Recent Highlights
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60"/><br/>
+<b>Security Research</b><br/>
+<sub>Hunting for vulnerabilities in modern applications</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="60"/><br/>
+<b>Tool Development</b><br/>
+<sub>Building custom penetration testing utilities</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="60"/><br/>
+<b>Documentation</b><br/>
+<sub>Writing technical security reports & advisories</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60"/><br/>
+<b>Learning</b><br/>
+<sub>Staying updated with latest attack techniques</sub>
+</td>
+</tr>
+</table>
 
-- 🎯 Working on advanced penetration testing techniques
-- 🔍 Researching new vulnerability patterns
-- 📝 Writing technical security documentation
-- 🛠️ Developing custom security tools
+</div>
+
+---
+
+## 🎨 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="35"/> Support & Contributions
+
+<div align="center">
+
+### 💡 Interested in Security Research?
+
+Feel free to reach out for collaboration opportunities, security discussions, or if you'd like to learn more about ethical hacking and penetration testing!
+
+<br/>
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com)
 
 </div>
 
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Stay%20Curious,%20Stay%20Ethical&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 
 ### 🌟 "In the world of security, there are no final answers, only better questions" 🌟
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Stay%20Curious,%20Stay%20Ethical&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
+<sub>⚡ Powered by determination and curiosity | 💀 Breaking systems ethically | 🎯 One vulnerability at a time</sub>
 
-<sub>⚡ Powered by determination and curiosity | 💀 Breaking systems ethically since forever | 🎯 One vulnerability at a time</sub>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
 </div>
