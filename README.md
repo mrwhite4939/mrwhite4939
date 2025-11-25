@@ -343,6 +343,6 @@ await hacker.hunt_vulnerabilities();
 
 <br/>
 
-<sub> All rights reserved © Ren</sub>
+<sub>Powered by caffeine and curiosity | 🎯 Committed to ethical hacking | 🛡️ Defending the digital world</sub>
 
 </div>
