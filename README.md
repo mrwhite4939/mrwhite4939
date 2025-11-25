@@ -8,12 +8,11 @@
 <div align="center">
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Penetration+Testing+%E2%9C%A8;Security+Research+%F0%9F%94%8D;Exploit+Development+%F0%9F%92%A5;Red+Team+Operations+%F0%9F%8E%AF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Penetration+Testing+%E2%9C%A8;Security+Research+%F0%9F%94%8D" alt="Typing SVG" />
 
 </div>
 
 <!-- Professional Banner -->
----
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 </div>
