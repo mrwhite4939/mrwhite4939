@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Penetration+Testing+%E2%9C%A8;Security+Research+%F0%9F%94%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Penetration+Testing+%E2%9C%A8;Security+Research+%F0%9F%94%8D;Exploit+Development+%F0%9F%92%A5;Red+Team+Operations+%F0%9F%8E%AF" alt="Typing SVG" />
 
 </div>
 
@@ -188,8 +188,22 @@ await hacker.hunt_vulnerabilities();
 
 <div align="center">
 
+<!-- GitHub Stats Cards -->
+<a href="https://github.com/MrWhite4939">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MrWhite4939&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=00ff41&text_color=c9d1d9&border_radius=10"/>
+</a>
+<a href="https://github.com/MrWhite4939">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrWhite4939&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&border_radius=10"/>
+</a>
 
+</div>
 
+<!-- GitHub Streak -->
+<div align="center">
+  <a href="https://github.com/MrWhite4939">
+    <img src="https://streak-stats.demolab.com?user=MrWhite4939&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=00ff41&currStreakLabel=7c3aed&sideLabels=7c3aed&dates=c9d1d9&stroke=7c3aed&currStreakNum=00ff41&sideNums=00ff41&border_radius=10" alt="GitHub Streak" />
+  </a>
+</div>
 
 <!-- Activity Graph -->
 <div align="center">
@@ -256,6 +270,13 @@ await hacker.hunt_vulnerabilities();
   ├─ 🤖 Security Automation Tools
   ├─ 📝 CVE Discovery & Responsible Disclosure
   └─ 🎓 Security Training Content
+
+🏆 Goals for 2025:
+  ├─ 🎖️ OSEP & OSED Certifications
+  ├─ 💰 Top 100 in Bug Bounty Programs
+  ├─ 📚 Publish Security Research Papers
+  ├─ 🌟 Contribute to Open Source Security Tools
+  └─ 🎤 Speaker at Security Conferences
 ```
 
 </div>
