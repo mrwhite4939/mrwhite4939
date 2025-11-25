@@ -65,24 +65,24 @@ print(hacker.motto())
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ec-1f1e7.png" width="50"/><br/>
-<b>English</b><br/>
-<img src="https://progress-bar.dev/100?title=Professional&width=200&color=00ff41"/>
+<b>🇬🇧 English</b><br/>
+<sub>━━━━━━━━━━ 100%</sub><br/>
+<sup>Professional</sup>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ef-1f1f5.png" width="50"/><br/>
-<b>Japanese</b><br/>
-<img src="https://progress-bar.dev/100?title=Native&width=200&color=00ff41"/>
+<b>🇯🇵 Japanese</b><br/>
+<sub>━━━━━━━━━━ 100%</sub><br/>
+<sup>Native</sup>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ee-1f1f6.png" width="50"/><br/>
-<b>Arabic</b><br/>
-<img src="https://progress-bar.dev/40?title=Beginner&width=200&color=ffa500"/>
+<b>🇮🇶 Arabic</b><br/>
+<sub>━━━━░░░░░░ 40%</sub><br/>
+<sup>Beginner</sup>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ee-1f1f7.png" width="50"/><br/>
-<b>Persian</b><br/>
-<img src="https://progress-bar.dev/20?title=Basic&width=200&color=ff6b6b"/>
+<b>🇮🇷 Persian</b><br/>
+<sub>━━░░░░░░░░ 20%</sub><br/>
+<sup>Basic</sup>
 </td>
 </tr>
 </table>
@@ -97,7 +97,6 @@ print(hacker.motto())
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/1417141835960160428)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:mrwhite4939@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/mrwhite4939)
 
 </div>
 
@@ -301,22 +300,6 @@ print(hacker.motto())
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 🎨 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="35"/> Support & Contributions
-
-<div align="center">
-
-### 💡 Interested in Security Research?
-
-Feel free to reach out for collaboration opportunities, security discussions, or if you'd like to learn more about ethical hacking and penetration testing!
-
-<br/>
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com)
 
 </div>
 
