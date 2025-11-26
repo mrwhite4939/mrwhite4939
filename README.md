@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=80&lines=Penetration+Testing;Security+Research;Exploit+Development;Red+Team+Operations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=80&lines=Penetration+Testing;Security+Research;Exploit+Development;Bug+Hunter;Red+Team+Operations" alt="Typing SVG" />
 
 </div>
 
@@ -55,7 +55,7 @@ class EthicalHacker {
       "Exploit Development", 
       "Security Research",
       "Red Team Operations",
-      "Bug Bounty"
+      "Bug Hunter"
     ];
   }
 
