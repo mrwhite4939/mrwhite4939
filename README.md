@@ -511,18 +511,6 @@ console.log("🚀 Ready to hack the planet ethically!");
 
 ---
 
-<div align="center">
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/traitimtrongvag/traitimtrongvag/blob/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/traitimtrongvag/traitimtrongvag/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/traitimtrongvag/traitimtrongvag/blob/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="35"> **Support My Work**
 
@@ -596,6 +584,6 @@ console.log("🚀 Ready to hack the planet ethically!");
 
 ---
 
-<sub>⚡ Last Updated: 2025 | Built with 💚 by MrWhite4939</sub>
+<sub>⚡ Last Updated: 2025 | Built with 🤍 by MrWhite4939</sub>
 
 </div>
