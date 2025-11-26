@@ -298,7 +298,7 @@ console.log("🚀 Ready to hack the planet ethically!");
 
 ### 🏆 Offensive Security Certified Professional (OSCP)
 
-<img src="https://raw.githubusercontent.com/MrWhite4939/MrWhite4939/main/OSCP.png" width="650" alt="OSCP Certificate" style="border: 3px solid #00ff41; border-radius: 15px; box-shadow: 0 0 20px #00ff41;"/>
+<img src="https://raw.githubusercontent.com/MrWhite4939/MrWhite4939/main/OSCP.png" width="650" alt="OSCP Certificate" style="border: 3px solid #00ff41; border-radius: 15px;"/>
 
 <br/><br/>
 
@@ -493,4 +493,16 @@ console.log("🚀 Ready to hack the planet ethically!");
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" alt="Discord"/>
 </a>
 <a href="mailto:mrwhite4939@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gma
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail"/>
+</a>
+<a href="https://github.com/MrWhite4939">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+### 💬 Open for Collaboration
+
+<sub>🤝 Security Research Partnerships</sub> • <sub>🎓 Educational Content Creation</sub> • <sub>🛠️ Open Source Contributions</sub>
+
+<sub>💼 Bug Bounty Collaborations</sub> • <sub>🎤 Conference Speaking</sub> • <sub>📚 Knowledge Sharing
