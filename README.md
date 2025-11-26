@@ -495,4 +495,107 @@ console.log("🚀 Ready to hack the planet ethically!");
 <a href="mailto:mrwhite4939@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail"/>
 </a>
-<a href="https://gi
+<a href="https://github.com/MrWhite4939">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+### 💬 Open for Collaboration
+
+<sub>🤝 Security Research Partnerships</sub> • <sub>🎓 Educational Content Creation</sub> • <sub>🛠️ Open Source Contributions</sub>
+
+<sub>💼 Bug Bounty Collaborations</sub> • <sub>🎤 Conference Speaking</sub> • <sub>📚 Knowledge Sharing</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrWhite4939/MrWhite4939/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrWhite4939/MrWhite4939/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MrWhite4939/MrWhite4939/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="35"> **Support My Work**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80"/><br/>
+<strong>⭐ Star Repositories</strong><br/>
+<sub>Show your support by starring my projects</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/><br/>
+<strong>🔀 Fork & Contribute</strong><br/>
+<sub>Help improve security tools together</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122003-15d48e5d-29f0-453e-9135-a03ba0e1a407.png" width="80"/><br/>
+<strong>📢 Share Knowledge</strong><br/>
+<sub>Spread security awareness</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📈 **Contribution Stats**
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrWhite4939&theme=radical" width="98%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrWhite4939&theme=radical" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrWhite4939&theme=radical" width="48%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Stay%20Curious%20•%20Stay%20Ethical%20•%20Stay%20Sharp&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+
+<br/>
+
+### ⚡ **"Breaking Systems Ethically, One Vulnerability at a Time"** ⚡
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<br/>
+
+### 🛡️ **Hack The World. Protect The Future.** 🛡️
+
+<br/>
+
+<sub>💀 Powered by caffeine, curiosity & code | 🎯 Committed to ethical hacking | 🌐 Defending the digital frontier</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MrWhite4939&style=for-the-badge&color=00ff41&label=TOTAL+PROFILE+VISITORS"/>
+
+<br/>
+
+---
+
+<sub>⚡ Last Updated: 2025 | Built with 💚 by MrWhite4939</sub>
+
+</div>
