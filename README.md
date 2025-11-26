@@ -35,12 +35,6 @@
 
 <br/>
 
-<!-- Profile Stats Banner -->
-<div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=MrWhite4939&color=00ff41&style=flat-square&label=Profile+Views)](https://github.com/MrWhite4939)
-[![GitHub Followers](https://img.shields.io/github/followers/MrWhite4939?label=Followers&style=flat-square&color=00ff41&labelColor=0d1117)](https://github.com/MrWhite4939)
-[![GitHub Stars](https://img.shields.io/github/stars/MrWhite4939?label=Stars&style=flat-square&color=00ff41&labelColor=0d1117)](https://github.com/MrWhite4939)
 
 </div>
 
