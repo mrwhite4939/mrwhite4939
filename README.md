@@ -493,6 +493,4 @@ console.log("🚀 Ready to hack the planet ethically!");
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" alt="Discord"/>
 </a>
 <a href="mailto:mrwhite4939@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail"/>
-</a>
-<a href="https://gi
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt=
