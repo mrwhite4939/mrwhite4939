@@ -54,7 +54,8 @@ class EthicalHacker {
       "Penetration Testing",
       "Exploit Development", 
       "Security Research",
-      "Red Team Operations"
+      "Red Team Operations",
+      "Bug Bounty"
     ];
   }
 
