@@ -49,7 +49,7 @@ class EthicalHacker {
   constructor() {
     this.name = "Ren (MrWhite4939)";
     this.role = "Offensive Security Specialist";
-    this.location = "Japan Tokyo 🇯🇵";
+    this.location = "Tokyo, Japan 🇯🇵";
     this.expertise = [
       "Penetration Testing",
       "Exploit Development", 
