@@ -412,12 +412,15 @@ await hacker.hunt_vulnerabilities();
 
 <sub>💀 Powered by caffeine, curiosity & code | 🎯 Committed to ethical hacking | 🌐 Defending the digital frontier</sub>
 
-<br/> MrWhite<br/>
+---
+
+<br/>Thanks for visiting my profile — I really appreciate you! 🤍🌸
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=MrWhite4939&style=for-the-badge&color=00ff41&label=TOTAL+PROFILE+VISITORS"/>
 
 <br/>
 
-
+على
 
 
