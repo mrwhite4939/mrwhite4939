@@ -421,6 +421,3 @@ await hacker.hunt_vulnerabilities();
 
 <br/>
 
-على
-
-
