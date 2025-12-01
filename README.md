@@ -420,4 +420,4 @@ await hacker.hunt_vulnerabilities();
 
 ---
 
-![github-contribution.svg](https://github.com/mrwhite4939/mrwhite4939/blob/main/github-contribution.svg)
+![mrwhite](https://github.com/mrwhite4939/mrwhite4939/blob/main/mrwhite.svg)
