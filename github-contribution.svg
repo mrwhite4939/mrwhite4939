@@ -1,15 +1,10 @@
-<svg viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80">
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&amp;display=swap');
+      .text { font-family: 'Poppins', sans-serif; font-size: 48px; font-weight: 300; fill: #ffffff; letter-spacing: 1px; }
     </style>
   </defs>
-  
-  <text x="20" y="65" font-family="'Poppins', sans-serif" font-size="52" font-weight="300" fill="#ffffff" letter-spacing="1">
-    MrWhite
-  </text>
-  
-  <path d="M 320 35 C 320 35 310 25 300 25 C 290 25 280 35 280 45 C 280 60 295 70 310 85 C 325 70 340 60 340 45 C 340 35 330 25 320 25 C 310 25 320 35 320 35 Z" 
-        fill="#ffffff" 
-        stroke="none"/>
+  <text x="10" y="55" class="text">MrWhite</text>
+  <path d="M 245 25 C 245 20 241 16 236 16 C 233 16 230 17.5 228.5 20 C 227 17.5 224 16 221 16 C 216 16 212 20 212 25 C 212 32 218 38 228.5 47 C 239 38 245 32 245 25 Z" fill="#ffffff" stroke="none"/>
 </svg>
