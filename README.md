@@ -390,6 +390,7 @@ await hacker.hunt_vulnerabilities();
 
 ---
 
+
 <div align="center">
 
 <!-- Animated Footer -->
@@ -419,6 +420,4 @@ await hacker.hunt_vulnerabilities();
 
 ---
 
-<sub>⚡ Last Updated: 2025 | Built with 🤍 by MrWhite4939</sub>
-
-</div>
+![github-contribution.svg](https://github.com/mrwhite4939/mrwhite4939/blob/main/github-contribution.svg)
