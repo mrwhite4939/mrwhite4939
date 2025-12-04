@@ -420,6 +420,3 @@ await hacker.hunt_vulnerabilities();
 <img src="https://komarev.com/ghpvc/?username=MrWhite4939&style=for-the-badge&color=00ff41&label=TOTAL+PROFILE+VISITORS"/>
 
 <br/>
-
----
-
