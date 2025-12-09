@@ -423,7 +423,5 @@ await hacker.hunt_vulnerabilities();
 
 ---
 
-<audio controls>
-  <source src="https://archive.org/download/mr-white/MrWhite.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+
+![music](https://archive.org/download/mr-white/MrWhite.mp3)
