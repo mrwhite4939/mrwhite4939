@@ -420,3 +420,10 @@ await hacker.hunt_vulnerabilities();
 <img src="https://komarev.com/ghpvc/?username=MrWhite4939&style=for-the-badge&color=00ff41&label=TOTAL+PROFILE+VISITORS"/>
 
 <br/>
+
+---
+
+<audio controls>
+  <source src="https://archive.org/download/mr-white/MrWhite.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
