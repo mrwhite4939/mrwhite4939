@@ -1,8 +1,3 @@
-<audio controls>
-  <source src="https://archive.org/download/mr-white/audio/MrWhite.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
 <div align="center">
 
 <!-- Animated Header -->
@@ -427,6 +422,3 @@ await hacker.hunt_vulnerabilities();
 <br/>
 
 ---
-
-
-![music](https://archive.org/download/mr-white/MrWhite.mp3)
