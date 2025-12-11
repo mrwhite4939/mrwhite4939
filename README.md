@@ -250,7 +250,7 @@ await hacker.hunt_vulnerabilities();
 </div>
 
 <!-- Trophies -->
-![Trophy](https://github-profile-trophy.vercel.app/?mrwhite4939=ryo-ma&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api?username=mrwhite4939&show_icons=true&theme=gruvbox)
 ---
 
 ## 🏆 Certifications
