@@ -127,11 +127,6 @@ await hacker.hunt_vulnerabilities();
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/1417141835960160428)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:mrwhite4939@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](#)
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=000000)](#)
-[![BugCrowd](https://img.shields.io/badge/BugCrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white&labelColor=000000)](#)
-
 </div>
 
 ---
@@ -668,8 +663,6 @@ await hacker.hunt_vulnerabilities();
 ![Amazon](https://img.shields.io/badge/AWS_Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=000000)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white&labelColor=000000)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white&labelColor=000000)
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=000000)
-
 </div>
 
 </div>
@@ -812,11 +805,7 @@ await hacker.hunt_vulnerabilities();
 ### 📧 Reach Out:
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/1417141835960160428)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:mrwhite4939@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](#)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](#)
-
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:mrwhite4939@gmail.com)1
 <br/>
 
 **💡 Available for:**
@@ -950,7 +939,7 @@ await hacker.hunt_vulnerabilities();
     └──────┬──────┘
            │
     ┌──────▼──────┐
-    │ Enumeration │
+ │ Enumeration │
     └──────┬──────┘
            │
     ┌──────▼──────────┐
