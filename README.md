@@ -77,7 +77,7 @@ await hacker.hunt_vulnerabilities();
 
 <br clear="right"/>
 
-### 🎯 **Specialization Areas**
+### 🎯 Specialization Areas
 
 <table>
 <tr>
@@ -127,11 +127,12 @@ await hacker.hunt_vulnerabilities();
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/1417141835960160428)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:mrwhite4939@gmail.com)
+
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Tech Arsenal**
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Tech Arsenal
 
 <details open>
 <summary><b>⚡ Programming & Scripting Languages</b></summary>
@@ -314,7 +315,6 @@ await hacker.hunt_vulnerabilities();
 
 <br/>
 
-<!-- GitHub Streak -->
 <div align="center">
   <a href="https://github.com/MrWhite4939">
     <img src="https://nirzak-streak-stats.vercel.app?user=MrWhite4939&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=00FF41&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=C9D1D9&stroke=7C3AED&currStreakNum=00FF41&sideNums=00FF41&border_radius=10" alt="GitHub Streak" />
@@ -323,7 +323,6 @@ await hacker.hunt_vulnerabilities();
 
 <br/>
 
-<!-- Activity Graph -->
 <div align="center">
   <a href="https://github.com/MrWhite4939">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrWhite4939&bg_color=0d1117&color=7c3aed&line=00ff41&point=00ff41&area=true&hide_border=true&custom_title=Contribution%20Graph&title_color=7c3aed&area_color=7c3aed&radius=10" alt="Contribution Graph" width="95%"/>
@@ -332,7 +331,6 @@ await hacker.hunt_vulnerabilities();
 
 <br/>
 
-<!-- Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MrWhite4939&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
 </div>
@@ -371,15 +369,11 @@ await hacker.hunt_vulnerabilities();
 
 ### 📜 Additional Certifications
 
-<div align="center">
-
 ![CEH](https://img.shields.io/badge/CEH-EC--Council-red?style=for-the-badge&logo=security&logoColor=white&labelColor=000000)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white&labelColor=000000)
 ![eJPT](https://img.shields.io/badge/eJPT-INE_Security-blue?style=for-the-badge&logo=security&logoColor=white&labelColor=000000)
 ![CRTP](https://img.shields.io/badge/CRTP-PentesterAcademy-green?style=for-the-badge&logo=security&logoColor=white&labelColor=000000)
 ![AWS Security](https://img.shields.io/badge/AWS_Security-Specialty-orange?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=000000)
-
-</div>
 
 </div>
 
@@ -402,7 +396,7 @@ await hacker.hunt_vulnerabilities();
 🚀 Active Projects:
   ├─ 🛠️ Custom Penetration Testing Framework (Python/Go)
   ├─ 🤖 AI-Powered Security Automation Suite
-  ├─ 📝 CVE Discovery & Responsible ├─ 📝 CVE Discovery & Responsible Disclosure Program
+  ├─ 📝 CVE Discovery & Responsible Disclosure Program
   ├─ 🎓 Advanced Security Training Content & Writeups
   ├─ 🔧 Custom Exploitation Tools & Payloads
   └─ 📊 Open-Source Security Research Publications
@@ -651,8 +645,6 @@ await hacker.hunt_vulnerabilities();
 
 ### 🎯 Hall of Fame
 
-<div align="center">
-
 ![Google](https://img.shields.io/badge/Google_VRP-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=000000)
 ![Microsoft](https://img.shields.io/badge/Microsoft_MSRC-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=000000)
 ![Apple](https://img.shields.io/badge/Apple_Security-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000)
@@ -663,7 +655,6 @@ await hacker.hunt_vulnerabilities();
 ![Amazon](https://img.shields.io/badge/AWS_Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=000000)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white&labelColor=000000)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white&labelColor=000000)
-</div>
 
 </div>
 
@@ -679,22 +670,22 @@ await hacker.hunt_vulnerabilities();
 
 ### 🔥 Recent Publications
 
-- 🎯 **[Advanced XSS Exploitation Techniques in Modern Frameworks]** - *Jan 2026*
-- 🔐 **[Breaking JWT: From Theory to Exploitation]** - *Dec 2025*
-- ☁️ **[AWS S3 Bucket Misconfiguration: A Comprehensive Guide]** - *Nov 2025*
-- 🛡️ **[Bypassing WAF: Modern Techniques & Payloads]** - *Oct 2025*
-- 💣 **[Zero-Day Discovery: My Journey to CVE-2024-XXXXX]** - *Sep 2025*
+- 🎯 **Advanced XSS Exploitation Techniques in Modern Frameworks** - *Jan 2026*
+- 🔐 **Breaking JWT: From Theory to Exploitation** - *Dec 2025*
+- ☁️ **AWS S3 Bucket Misconfiguration: A Comprehensive Guide** - *Nov 2025*
+- 🛡️ **Bypassing WAF: Modern Techniques & Payloads** - *Oct 2025*
+- 💣 **Zero-Day Discovery: My Journey to CVE-2024-XXXXX** - *Sep 2025*
 
 </td>
 <td width="50%">
 
 ### 📖 CTF Writeups
 
-- 🏆 **[HackTheBox: Insane Box "Quantum" - Full Walkthrough]**
-- 🎮 **[TryHackMe: Red Team Path - Advanced Techniques]**
-- 🔓 **[PortSwigger Web Security Academy: All Labs Solved]**
-- 💻 **[OSCP Journey: Tips, Tricks & Complete Methodology]**
-- 🧩 **[PicoCTF 2024: Top 10 Finish - All Challenges]**
+- 🏆 **HackTheBox: Insane Box "Quantum" - Full Walkthrough**
+- 🎮 **TryHackMe: Red Team Path - Advanced Techniques**
+- 🔓 **PortSwigger Web Security Academy: All Labs Solved**
+- 💻 **OSCP Journey: Tips, Tricks & Complete Methodology**
+- 🧩 **PicoCTF 2024: Top 10 Finish - All Challenges**
 
 </td>
 </tr>
@@ -753,17 +744,6 @@ await hacker.hunt_vulnerabilities();
 
 ---
 
-## 📊 Detailed GitHub Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrWhite4939&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&layout=compact" width="49%"/>
-<img src="https://github-contributor-stats.vercel.app/api?username=MrWhite4939&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9" width="49%"/>
-
-</div>
-
----
-
 ## 💬 Let's Connect & Collaborate
 
 <div align="center">
@@ -805,7 +785,8 @@ await hacker.hunt_vulnerabilities();
 ### 📧 Reach Out:
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/1417141835960160428)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:mrwhite4939@gmail.com)1
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:mrwhite4939@gmail.com)
+
 <br/>
 
 **💡 Available for:**
@@ -939,7 +920,7 @@ await hacker.hunt_vulnerabilities();
     └──────┬──────┘
            │
     ┌──────▼──────┐
- │ Enumeration │
+    │ Enumeration │
     └──────┬──────┘
            │
     ┌──────▼──────────┐
@@ -967,7 +948,6 @@ await hacker.hunt_vulnerabilities();
 
 <div align="center">
 
-<!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Stay%20Curious%20•%20Stay%20Ethical%20•%20Stay%20Sharp&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 
 <br/>
@@ -1044,7 +1024,7 @@ await hacker.hunt_vulnerabilities();
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=true&width=800&height=60&lines=Thanks+for+visiting+my+profile+%E2%80%94+I+really+appreciate+you!+%F0%9F%A4%8D%F0%9F%8C%B8;Feel+free+to+explore+my+repositories+and+connect!+%F0%9F%9A%80;Let%27s+make+the+digital+world+safer+together!+%F0%9F%94%90;Stay+curious%2C+stay+secure%2C+stay+awesome!+%E2%9A%A1" alt="Thanks Message" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=true&width=800&height=60&lines=Thanks+for+visiting+my+profile!+%F0%9F%A4%9D%F0%9F%8C%B8;Feel+free+to+explore+my+repositories+and+connect!+%F0%9F%9A%80;Let%27s+make+the+digital+world+safer+together!+%F0%9F%94%90;Stay+curious%2C+stay+secure%2C+stay+awesome!+%E2%9A%A1" alt="Thanks Message" />
 
 <br/><br/>
 
@@ -1052,7 +1032,6 @@ await hacker.hunt_vulnerabilities();
 
 <br/><br/>
 
-<!-- Social Wave Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"/>
 
 <br/>
@@ -1085,19 +1064,6 @@ await hacker.hunt_vulnerabilities();
 
 <br/>
 
-<div align="center">
-
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
 ### 🔐 Security Researcher's Creed
 
 ```ascii
@@ -1121,55 +1087,11 @@ await hacker.hunt_vulnerabilities();
 ╚════════════════════════════════════════════════════════════════════╝
 ```
 
-</div>
-
 <br/>
 
 ---
 
 <br/>
-
-<div align="center">
-
-### 📜 Repository Highlights
-
-<a href="https://github.com/MrWhite4939?tab=repositories">
-<img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-**Featured Repos:**
-
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MrWhite4939&repo=ReconMaster&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&icon_color=00FF41"/>
-</a>
-</td>
-<td align="center" width="33%">
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MrWhite4939&repo=ExploitForge&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&icon_color=00FF41"/>
-</a>
-</td>
-<td align="center" width="33%">
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MrWhite4939&repo=WebVulnScanner&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&icon_color=00FF41"/>
-</a>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
 
 ### 🎯 Current Focus & Learning
 
@@ -1185,45 +1107,11 @@ await hacker.hunt_vulnerabilities();
 ![AI Model Poisoning](https://img.shields.io/badge/AI_Model_Poisoning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)
 ![Blockchain Smart Contracts](https://img.shields.io/badge/Smart_Contract_Auditing-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=000000)
 
-</div>
-
 <br/>
 
 ---
 
 <br/>
-
-<div align="center">
-
-### 💌 Support My Work
-
-<sub>If you find my tools helpful or my research valuable, consider supporting me:</sub>
-
-<br/><br/>
-
-<a href="https://www.buymeacoffee.com/mrwhite4939">
-<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=000000"/>
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=000000"/>
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=000000"/>
-</a>
-
-<br/><br/>
-
-<sub>⭐ Star my repositories | 🍴 Fork and contribute | 📢 Share with the community</sub>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
@@ -1233,7 +1121,7 @@ await hacker.hunt_vulnerabilities();
 
 <br/>
 
-<sub>Last Updated: January 18, 2026 | Built with Markdown & Passion | Secured with Ethics</sub>
+<sub>Last Updated: January 18, 2026 | Secured with Ethics</sub>
 
 <br/><br/>
 
@@ -1260,19 +1148,3 @@ await hacker.hunt_vulnerabilities();
 <br/>
 
 </div>
-
-<!-- Hidden Easter Egg -->
-<!-- 
-     🎉 CONGRATULATIONS! 🎉
-     You found the hidden easter egg in the source code!
-     Real hackers always read the source ;)
-     
-     Here's a secret quote:
-     "Security is not about fear, it's about understanding."
-     
-     Keep exploring, keep learning!
-     - MrWhite4939
--->
-
-</div>
-```
