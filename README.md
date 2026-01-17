@@ -704,26 +704,45 @@ await hacker.hunt_vulnerabilities();
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60"/><br/>
-<b>🔧 ReconMaster</b><br/>
-<sub>Automated reconnaissance framework</sub><br/>
-<sub>⭐ 250+ Stars | 🍴 80+ Forks</sub><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60"><br>
+<b>🔧 ReconMaster</b><br>
+Automated reconnaissance framework<br>
+⭐ 250+ Stars | 🍴 80+ Forks<br>
 <img src="https://img.shields.io/badge/Python-3.11-blue?style=flat-square" alt="Python">
 <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License">
 </td>
+
 <td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60"/><br/>
-<b>⚡ ExploitForge</b><br/>
-<sub>Custom exploit development toolkit</sub><br/>
-<sub>⭐ 180+ Stars | 🍴 60+ Forks</sub><br/>
-<img src="https://
----
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60"><br>
+<b>⚡ ExploitForge</b><br>
+Custom exploit development toolkit<br>
+⭐ 180+ Stars | 🍴 60+ Forks<br>
+<img src="https://img.shields.io/badge/C++-17-red?style=flat-square" alt="C++">
+<img src="https://img.shields.io/badge/License-GPL-green?style=flat-square" alt="GPL License">
+</td>
+</tr>
 
-## 💬 Let's Connect & Collaborate
+<tr>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"><br>
+<b>🌐 WebVulnScanner</b><br>
+Advanced web vulnerability scanner<br>
+⭐ 320+ Stars | 🍴 120+ Forks<br>
+<img src="https://img.shields.io/badge/Go-1.21-cyan?style=flat-square" alt="Go">
+<img src="https://img.shields.io/badge/License-Apache-green?style=flat-square" alt="Apache License">
+</td>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"><br>
+<b>🔐 CloudSecAudit</b><br>
+Cloud security configuration auditor<br>
+⭐ 150+ Stars | 🍴 45+ Forks<br>
+<img src="https://img.shields.io/badge/Rust-1.75-orange?style=flat-square" alt="Rust">
+<img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License">
+</td>
+</tr>
+</table>
+</div>
 
 <br/>
 
