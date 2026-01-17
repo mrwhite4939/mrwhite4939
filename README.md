@@ -1087,12 +1087,6 @@ await hacker.hunt_vulnerabilities();
 
 <div align="center">
 
-### 🎨 Profile Aesthetics Credits
-
-<sub>Animated Headers: [capsule-render](https://github.com/kyechan99/capsule-render) | Typing SVG: [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)</sub><br/>
-<sub>GitHub Stats: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | Streak Stats: [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)</sub><br/>
-<sub>Activity Graph: [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | Trophies: [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)</sub><br/>
-<sub>Badges: [shields.io](https://shields.io) | GIFs: [GitHub User Animations](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)</sub>
 
 </div>
 
