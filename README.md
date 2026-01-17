@@ -701,45 +701,25 @@ await hacker.hunt_vulnerabilities();
 
 ### 🌟 Featured Projects
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60"/><br/>
-<b>🔧 ReconMaster</b><br/>
-<sub>Automated reconnaissance framework</sub><br/>
-<sub>⭐ 250+ Stars | 🍴 80+ Forks</sub><br/>
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-</td>
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60"/><br/>
-<b>⚡ ExploitForge</b><br/>
-<sub>Custom exploit development toolkit</sub><br/>
-<sub>⭐ 180+ Stars | 🍴 60+ Forks</sub><br/>
-![C++](https://img.shields.io/badge/C++-17-red?style=flat-square)
-![License](https://img.shields.io/badge/License-GPL-green?style=flat-square)
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"/><br/>
-<b>🌐 WebVulnScanner</b><br/>
-<sub>Advanced web vulnerability scanner</sub><br/>
-<sub>⭐ 320+ Stars | 🍴 120+ Forks</sub><br/>
-![Go](https://img.shields.io/badge/Go-1.21-cyan?style=flat-square)
-![License](https://img.shields.io/badge/License-Apache-green?style=flat-square)
-</td>
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/><br/>
-<b>🔐 CloudSecAudit</b><br/>
-<sub>Cloud security configuration auditor</sub><br/>
-<sub>⭐ 150+ Stars | 🍴 45+ Forks</sub><br/>
-![Rust](https://img.shields.io/badge/Rust-1.75-orange?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-</td>
-</tr>
-</table>
+- 🔧 **ReconMaster**  
+  Automated reconnaissance framework  
+  ⭐ 250+ Stars | 🍴 80+ Forks  
+  ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
+- ⚡ **ExploitForge**  
+  Custom exploit development toolkit  
+  ⭐ 180+ Stars | 🍴 60+ Forks  
+  ![C++](https://img.shields.io/badge/C++-17-red?style=flat-square) ![License](https://img.shields.io/badge/License-GPL-green?style=flat-square)
+
+- 🌐 **WebVulnScanner**  
+  Advanced web vulnerability scanner  
+  ⭐ 320+ Stars | 🍴 120+ Forks  
+  ![Go](https://img.shields.io/badge/Go-1.21-cyan?style=flat-square) ![License](https://img.shields.io/badge/License-Apache-green?style=flat-square)
+
+- 🔐 **CloudSecAudit**  
+  Cloud security configuration auditor  
+  ⭐ 150+ Stars | 🍴 45+ Forks  
+  ![Rust](https://img.shields.io/badge/Rust-1.75-orange?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 </div>
 
 ---
